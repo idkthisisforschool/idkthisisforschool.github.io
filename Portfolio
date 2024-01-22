@@ -3,7 +3,27 @@
     
     <head>
     <title>Jagruthi - Portfolio</title>
-    
+    <style>
+        body {
+            font-family: Bahnschrift SemiLight SemiConde, serif;
+            background-color: #ffd0cf;
+            text-align: center;
+        }
+        
+         header {
+            background-color: #000000;
+            color: #ffd0cf;
+            padding: 1em;
+            text-align: center;
+        }
+ footer {
+            background-color: #000000;
+            color: #ffd0cf;
+            text-align: center;
+        }
+        
+        </style>
+        
      <body>
 
     <header>
@@ -17,23 +37,36 @@
          
         <section>
         <h2>About Me</h2>
-        <p>Hello. I am a passtionate student pursuing a career in digital illustration and 3D modelling. I am versed in multiple industry favored softwares such as Photoshop for Illustration and 3ds Max and Maya for modelling. Whether sketching, painting, or experimenting with digital art, I am dedicated to translating concepts into captivating visuals. </p>
+        <p> I am a passtionate student pursuing a career in digital illustration and 3D modelling. I am versed in multiple industry favored softwares such as Photoshop for Illustration and 3ds Max and Maya for modelling. Whether sketching, painting, or experimenting with digital art, I am dedicated to translating concepts into captivating visuals. </p>
     </section> 
         
           <section>
-        <h2>Projects</h2>
-        <p>Check out my projects:</p>
+        <h2>Illustration</h2>
+        <p>Check out my Digital Paintings:</p>
         <ul>
             <img src="C:\Users\Lenovo\Desktop\Bottle- Jagruthi BVA 231.jpg" alt="Potion Bottle" width="500" height="500">
             <img src="C:\Users\Lenovo\Desktop\Still Life- Jagruthi BVA 231.jpg"" alt="Avacado Painting" width="500" height="500">
-            <img src="C:\Users\Lenovo\Desktop\Digital Art Test- Jagruthi BVA 231.jpg" alt="Apple Still Life" width="500" height="500">
-            <img src="C:\Users\Lenovo\Desktop\Texturing Exam- Jagruthi_BVA231\Potion Render_2.jpg" alt="Love Potion" width="800" height="500">                                                                        
+            <img src="C:\Users\Lenovo\Desktop\Digital Art Test- Jagruthi BVA 231.jpg" alt="Apple Still Life" width="500" height="500">                                                               
             
           </section>
-   
+                                                                                                                                     
+          <section>
+        <h2>3D Models</h2>
+        <p>Check out my 3D Renders:</p>
+        <ul>
+             <img src="C:\Users\Lenovo\Desktop\Texturing Exam- Jagruthi_BVA231\Potion Render_2.jpg" alt="Love Potion" width="800" height="500">                                                                                                                           
+           
+          </section>                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
    <section>
-        <h2>Contact</h2>
+        <h2>Contact:</h2>
         <p>Feel free to reach out to me: 9663971321</p>
         <p>Email: jagruthisandon@gmail.com.com</p>
        
     </section>
+                                                                                                                                             
+     <footer>
+        <p>&copy; 2024 Your Portfolio. All rights reserved.</p>
+    </footer>
